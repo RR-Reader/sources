@@ -9,7 +9,7 @@
     "download_url": "https://your-username.github.io/extensions/mangadex.zip",
     "tags": ["tag1", "tag2"],
     "language": "Multi",
-    "content_rating": "Multi"
+    "content_rating": "Adult"
   },
   {
     "id": "weebcentral",
@@ -21,6 +21,42 @@
     "download_url": "https://your-username.github.io/extensions/weeb-central.zip",
     "tags": ["tag3", "tag4"],
     "language": "en",
-    "content_rating": "Multi"
+    "content_rating": "Mature"
+  },
+  {
+    "id": "mangatown",
+    "name": "MangaTown",
+    "description": "A clean source for popular and classic manga.",
+    "version": "0.2.0",
+    "icon_url": "https://www.mangatown.com/favicon.ico",
+    "source_url": "https://www.mangatown.com/",
+    "download_url": "https://your-username.github.io/extensions/mangatown.zip",
+    "tags": ["popular", "classic", "tag5"],
+    "language": "English",
+    "content_rating": "Mature"
+  },
+  {
+    "id": "readm",
+    "name": "ReadM",
+    "description": "Smooth manga reading experience with fast updates.",
+    "version": "1.0.1",
+    "icon_url": "https://www.readm.org/favicon.ico",
+    "source_url": "https://www.readm.org/",
+    "download_url": "https://your-username.github.io/extensions/readm.zip",
+    "tags": ["fast-updates", "clean-ui"],
+    "language": "English",
+    "content_rating": "Mature"
+  },
+  {
+    "id": "manganelo",
+    "name": "Manganelo",
+    "description": "Comprehensive manga collection with broad language support.",
+    "version": "0.3.2",
+    "icon_url": "https://m.manganelo.com/favicon.ico",
+    "source_url": "https://m.manganelo.com/",
+    "download_url": "https://your-username.github.io/extensions/manganelo.zip",
+    "tags": ["multi-lang", "broad-collection"],
+    "language": "Multi",
+    "content_rating": "Mature"
   }
 ]
