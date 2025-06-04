@@ -5,6 +5,7 @@
     "description": "Popular open-source manga platform",
     "version": "0.1.0",
     "icon_url": "https://mangadex.org/favicon.ico",
+    "source_url": "https://mangadex.org/",
     "download_url": "https://your-username.github.io/extensions/mangadex.zip",
     "language": "Multi",
     "content_rating": "Multi"
@@ -15,6 +16,7 @@
     "description": "A hub for manga enthusiasts",
     "version": "0.1.0",
     "icon_url": "https://weebcentral.com/favicon.ico",
+    "source_url": "https://weebcentral.com/",
     "download_url": "https://your-username.github.io/extensions/weeb-central.zip",
     "language": "en",
     "content_rating": "Multi"
